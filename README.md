@@ -1,4 +1,4 @@
-# decision-statements-in-CPP
+# Decision-statements-in-CPP
 
 🎯Aim: To study and implement decision statements in C++.
 
