@@ -20,3 +20,19 @@ int main(){
         cout<<"enter a valid positive number to test even-odd";
     }
 }
+
+/*  SAMPLE OUTPUT 1
+Enter a number:78
+Number is positive
+Number is even
+
+SAMPLE OUTPUT 2
+Enter a number:55
+Number is positive
+Number is odd
+
+SAMPLE OUTPUT 3
+Enter a number:-90
+number is negative
+enter a valid positive number to test even-odd
+*/
