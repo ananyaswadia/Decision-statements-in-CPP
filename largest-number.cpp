@@ -18,3 +18,10 @@ int main(){
     }
     else cout<<c<<" is the largest number";
 }
+
+/*  OUTPUT 
+Enter first number: 23
+Enter second number: 67
+Enter third number: 197
+197 is the largest number
+*/
