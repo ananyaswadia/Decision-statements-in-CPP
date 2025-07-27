@@ -28,3 +28,20 @@ int main(){
 
     return 0;
 }
+
+/*  OUTPUT 1
+1. Open account
+2. Close account
+3. Add nominee
+4. Update personal details
+Enter choice: 1
+Your account has been opended.Reach out front desk.
+
+SAMPLE OUTPUT 2
+1. Open account
+2. Close account
+3. Add nominee
+4. Update personal details
+Enter choice: 4
+Fill form 5D to update personal details.
+*/
