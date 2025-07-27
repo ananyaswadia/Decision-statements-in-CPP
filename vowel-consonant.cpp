@@ -13,3 +13,12 @@ int main(){
         cout<<"Entered character is a consonant";
     }
 }
+
+/*  SAMPLE OUTPUT 1
+Enter a character: w
+Entered character is a consonant
+
+SAMPLE OUTPUT 2
+Enter a character: E
+Entered character is a vowel
+*/
